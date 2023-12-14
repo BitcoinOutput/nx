@@ -38,7 +38,7 @@
     "eslint-plugin-react-hooks": "4.6.0",
     "jest": "28.1.1",
     "jest-environment-jsdom": "28.1.1",
-    "nx": "15.3.3",
+    "nx": "999.9.9",
     "prettier": "^2.6.2",
     "react-test-renderer": "18.2.0",
     "ts-jest": "28.0.5",
@@ -49,7 +49,7 @@
     "@nrwl/jest": "15.3.3",
     "@nrwl/linter": "15.3.3",
     "@nrwl/react": "15.3.3",
-    "@nrwl/web": "15.3.3",
-    "@nrwl/workspace": "15.3.3"
+    "@nrwl/web": "16.0.0",
+    "@nrwl/workspace": "16.0.0"
   }
 }
