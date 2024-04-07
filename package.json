@@ -153,7 +153,7 @@
     "ejs": "^3.1.7",
     "enhanced-resolve": "^5.8.3",
     "esbuild": "^0.17.5",
-    "eslint": "8.15.0",
+    "eslint": "9.0.0",
     "eslint-config-next": "13.1.1",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-cypress": "^2.10.3",
