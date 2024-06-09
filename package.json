@@ -261,7 +261,7 @@
     "typedoc": "0.23.28",
     "typedoc-plugin-markdown": "3.14.0",
     "typescript": "~5.0.2",
-    "unzipper": "^0.10.11",
+    "unzipper": "^0.12.1",
     "url-loader": "^4.1.1",
     "use-sync-external-store": "^1.2.0",
     "verdaccio": "^5.0.4",
