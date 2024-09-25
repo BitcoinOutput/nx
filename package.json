@@ -229,7 +229,7 @@
     "react-test-renderer": "18.2.0",
     "regenerator-runtime": "0.13.7",
     "resolve.exports": "1.1.0",
-    "rollup": "^2.56.2",
+    "rollup": "^3.29.5",
     "rollup-plugin-copy": "^3.4.0",
     "rollup-plugin-peer-deps-external": "^2.2.4",
     "rollup-plugin-postcss": "^4.0.1",
